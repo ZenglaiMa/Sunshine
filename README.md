@@ -1,2 +1,2 @@
 # Sunshine
-The group about IT-Project-Managing
+The course of IT-Project-Managing
